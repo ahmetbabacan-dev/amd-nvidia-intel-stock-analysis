@@ -39,7 +39,7 @@ Nvidia (NVDA) is the dominant growth engine of the group, offering the highest p
 
 Snapshot of Performance:
 
-<img width="903" height="503" alt="image" src="https://github.com/user-attachments/assets/75299df9-bb04-497b-a45b-b43045964792" />
+<img width="550" height="300" alt="image" src="https://github.com/user-attachments/assets/75299df9-bb04-497b-a45b-b43045964792" />
 
 ## Insights Deep Dive
 
@@ -56,7 +56,8 @@ Snapshot of Performance:
 * **Probabilistic Outcomes:** There is a 47.24% probability that NVDA returns >10% in the next year. In contrast, INTC has only a 40.30% chance of exceeding that same threshold.
 * **Confidence Intervals:** The 95% Confidence Interval for NVDA's mean return is wide (25.90% to 29.39%), reflecting higher uncertainty compared to INTC’s tighter range (5.06% to 6.44%).
 
-![Monte Carlo Summary] [Insert the "Simulation Statistics" and "INTC 1-Year Return Frequency Distribution" screenshot here]
+<img width="380" height="292" alt="image" src="https://github.com/user-attachments/assets/f735ac9b-5fda-4346-a0f6-a02d43836e4b" />
+<img width="482" height="292" alt="image" src="https://github.com/user-attachments/assets/6ea20b53-147c-4d84-87d7-8cede7bcce71" />
 
 ### Category 3: Risk Assessment (Distribution Analysis)
 
@@ -64,7 +65,7 @@ Snapshot of Performance:
 * **Extreme Events (Kurtosis):** NVDA exhibits an extremely high Kurtosis of 14.17 (compared to a normal distribution of 3). This indicates "fat tails," meaning NVDA is significantly more prone to extreme outlier events (booms or crashes) than a standard statistical model would predict.
 * **Skewness:** All three stocks are positively skewed, but NVDA (2.56) and AMD (2.30) are heavily skewed to the right, indicating frequent small losses offset by occasional massive gains.
 
-![Distribution Charts] [Insert the Box Plot screenshot "INTC, AMD, and NVDA's 1-Year Simulated Returns"]
+<img width="452" height="360" alt="image" src="https://github.com/user-attachments/assets/e06b38a0-80fc-4318-8b22-f9a1ab462179" />
 
 ### Category 4: Portfolio Optimization (Solver)
 
@@ -76,7 +77,7 @@ Snapshot of Performance:
     INTC: 21.49%
 * **Resulting Portfolio:** This mix yields an Expected Return of 16.55% with a Standard Deviation of 47.04%, achieving a Sharpe Ratio of 26.61%.
 
-![Solver Output] [Insert the "Intel, AMD, and NVDA Optimal Portfolio Weights" screenshot here]
+<img width="520" height="350" alt="image" src="https://github.com/user-attachments/assets/870a315f-b0d6-400e-9f64-00ef26c48954" />
 
 ## Recommendations
 
