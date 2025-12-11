@@ -16,7 +16,7 @@ Insights and recommendations are provided on the following key areas:
 **Links to Project Files:**
 
 * The Excel Workbook containing the raw data, Monte Carlo simulations, and Solver models can be found [here](https://github.com/ahmetbabacan-dev/amd-nvidia-intel-stock-analysis/blob/main/AMD%20Nvidia%20Intel%20Stock%20Analysis.xlsm). 
-* The VBA Scripts used for automating the simulation runs and report generation can be found here:
+* The VBA Scripts used for automating the simulation runs and report generation can be found [here](https://github.com/ahmetbabacan-dev/amd-nvidia-intel-stock-analysis/blob/main/Module1.bas).
 * AMD stock price dataset: https://www.kaggle.com/datasets/tosinabase/amd-stock-prices-historical-data
 * Nvidia stock price dataset: https://www.kaggle.com/datasets/meharshanali/nvidia-stocks-data-2025
 * Intel stock price dataset: https://www.kaggle.com/datasets/tosinabase/intel-stock-prices-historical-data-intc
