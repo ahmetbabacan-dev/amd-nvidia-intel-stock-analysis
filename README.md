@@ -93,6 +93,6 @@ Based on the insights and findings above, we would recommend that the Investment
 Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
 
 * **Sampling Method:** The Monte Carlo simulation uses "Historical Resampling" (Bootstrapping) rather than assuming a Normal Distribution (NORM.INV). This was chosen to better capture the historical "fat tails" and non-normal characteristics of stock returns.
-* **Past vs. Future:** The analysis assumes that the distribution of returns observed from 1980–2021 is a representative sample of future possibilities. It does not account for fundamental shifts in the semiconductor industry (e.g., the end of Moore's Law or new AI regulations).
+* **Past vs. Future:** The analysis assumes that the distribution of returns observed from 2000–2021 is a representative sample of future possibilities. It does not account for fundamental shifts in the semiconductor industry (e.g., the end of Moore's Law or new AI regulations).
 * **Risk-Free Rate:** The Sharpe Ratio calculation utilizes a static 10-Year Treasury Yield of 4.036% as the risk-free benchmark.
 * **Short-Term Correlation:** The covariance matrix is calculated based on the entire historical dataset. Short-term correlations between these stocks may fluctuate significantly during market stress, potentially reducing the diversification benefits shown in the model.
